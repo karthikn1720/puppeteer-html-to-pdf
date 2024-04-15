@@ -1,0 +1,62 @@
+{
+  "template": "invoice",
+  "data": {
+    "name": "Karthik",
+    "phoneNumber": "+917397697924",
+    "address": {
+      "address1": "3rd Floor, Times Square Building",
+      "address2": "Coimbatore, Tamil Nadu"
+    },
+    "companyName": "Byteforza Technologies",
+    "invoiceNumber": 101138,
+    "date": "April 12, 2024",
+    "amountDue": 600,
+    "total": 600,
+    "amountPaid": 0,
+    "balance": 600,
+    "items": [
+      {
+        "name": "Tissue Paper",
+        "description": "Soft tissue paper",
+        "rate": 220,
+        "quantity": 4,
+        "price": 880
+      },
+      {
+        "name": "Tissue Paper",
+        "description": "Soft tissue paper",
+        "rate": 220,
+        "quantity": 4,
+        "price": 880
+      },
+      {
+        "name": "Tissue Paper",
+        "description": "Soft tissue paper",
+        "rate": 220,
+        "quantity": 4,
+        "price": 880
+      },
+      {
+        "name": "Tissue Paper",
+        "description": "Soft tissue paper",
+        "rate": 220,
+        "quantity": 4,
+        "price": 880
+      },
+      {
+        "name": "Tissue Paper",
+        "description": "Soft tissue paper",
+        "rate": 220,
+        "quantity": 4,
+        "price": 880
+      },
+      {
+        "name": "Tissue Paper",
+        "description": "Soft tissue paper",
+        "rate": 220,
+        "quantity": 4,
+        "price": 880
+      }
+    ]
+  }
+}
